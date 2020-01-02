@@ -49,7 +49,10 @@ def naming_system
     sub_category: {
       sub_category: {
         label: "Order"
-    }}}}
+                    }
+                  }
+                }
+                  }
     
   }
 #species = {PORTION_1, PORTION_2, PORTION_3, PORTION_4}
