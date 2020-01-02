@@ -56,6 +56,6 @@ def naming_system
     
   }
   
-  binding.pry
+  #binding.pry
   species
 end
