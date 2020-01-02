@@ -44,10 +44,11 @@ def naming_system
   # HoH all the way to Species!
   
   species ={  
-  starting_node: {sub_category:
-  sub_category: {
+  starting_node: {
+  sub_category:
     sub_category: {
-      label: "Order"
+      sub_category: {
+        label: "Order"
     }
   }},  
   portion2: {label: "Order"},
