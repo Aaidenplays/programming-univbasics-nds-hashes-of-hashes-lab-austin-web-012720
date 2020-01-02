@@ -55,9 +55,7 @@ def naming_system
                   }
     
   }
-#species = {PORTION_1, PORTION_2, PORTION_3, PORTION_4}
   
-  #species[:portion1][:sub_category][:sub_category][:label] = "Order"
-  #binding.pry
+  binding.pry
   species
 end
