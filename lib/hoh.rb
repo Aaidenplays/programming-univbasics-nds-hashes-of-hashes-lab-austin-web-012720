@@ -45,21 +45,13 @@ def naming_system
   
   species ={  
   starting_node: {
-  sub_category:
+  sub_category: { 
     sub_category: {
       sub_category: {
         label: "Order"
-    }
-  }},  
-  portion2: {label: "Order"},
-  portion3: {label: "Family",
-  sub_category: {
-    label: "Genus"
-  }},
-  portion4: {label: "Species",
-  sub_category: nil
-  }}
-
+    }}}}
+    
+  }
 #species = {PORTION_1, PORTION_2, PORTION_3, PORTION_4}
   
   #species[:portion1][:sub_category][:sub_category][:label] = "Order"
